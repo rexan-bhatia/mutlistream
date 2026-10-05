@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Vibes",
+    "artist": "Luna Harbor",
+    "album": "Sunlit Days",
+    "genre": "Pop",
+    "duration": "00:30",
+    "audio_url": "/audio/demo1.wav"
+  },
+  {
+    "id": 2,
+    "title": "Paper Planets",
+    "artist": "The Small Hours",
+    "album": "Night Sketches",
+    "genre": "Indie",
+    "duration": "00:30",
+    "audio_url": "/audio/demo2.wav"
+  },
+  {
+    "id": 3,
+    "title": "Neon Orchard",
+    "artist": "Mira Vale",
+    "album": "Afterglow",
+    "genre": "Electronic",
+    "duration": "00:30",
+    "audio_url": "/audio/demo3.wav"
+  },
+  {
+    "id": 4,
+    "title": "Quiet Thunder",
+    "artist": "Northbound Echo",
+    "album": "Open Roads",
+    "genre": "Alternative",
+    "duration": "00:30",
+    "audio_url": "/audio/demo4.wav"
+  },
+  {
+    "id": 5,
+    "title": "Coffee in July",
+    "artist": "Luna Harbor",
+    "album": "Sunlit Days",
+    "genre": "Acoustic",
+    "duration": "00:30",
+    "audio_url": "/audio/demo5.wav"
+  },
+  {
+    "id": 6,
+    "title": "Velvet Comet",
+    "artist": "Orion Bloom",
+    "album": "Little Galaxies",
+    "genre": "Pop",
+    "duration": "00:30",
+    "audio_url": "/audio/demo6.wav"
+  },
+  {
+    "id": 7,
+    "title": "Blue Hour Drive",
+    "artist": "Mira Vale",
+    "album": "Afterglow",
+    "genre": "Electronic",
+    "duration": "00:30",
+    "audio_url": "/audio/demo7.wav"
+  },
+  {
+    "id": 8,
+    "title": "Map of Maybe",
+    "artist": "The Small Hours",
+    "album": "Night Sketches",
+    "genre": "Indie",
+    "duration": "00:30",
+    "audio_url": "/audio/demo8.wav"
+  },
+  {
+    "id": 9,
+    "title": "Wildflower Radio",
+    "artist": "Juniper Lane",
+    "album": "Field Notes",
+    "genre": "Folk",
+    "duration": "00:30",
+    "audio_url": "/audio/demo9.wav"
+  },
+  {
+    "id": 10,
+    "title": "Golden Static",
+    "artist": "Orion Bloom",
+    "album": "Little Galaxies",
+    "genre": "Electronic",
+    "duration": "00:30",
+    "audio_url": "/audio/demo10.wav"
+  },
+  {
+    "id": 11,
+    "title": "Borrowed Light",
+    "artist": "Juniper Lane",
+    "album": "Field Notes",
+    "genre": "Folk",
+    "duration": "00:30",
+    "audio_url": "/audio/demo11.wav"
+  },
+  {
+    "id": 12,
+    "title": "Midnight Postcard",
+    "artist": "Northbound Echo",
+    "album": "Open Roads",
+    "genre": "Alternative",
+    "duration": "00:30",
+    "audio_url": "/audio/demo12.wav"
+  }
+]
