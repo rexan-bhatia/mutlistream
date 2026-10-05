@@ -69,7 +69,11 @@ def get_artists():
 
 @app.get("/audio/<path:filename>")
 def get_audio(filename):
-    return send_from_directory(AUDIO_DIR, filename)
+    return send_from_directory(
+     AUDIO_DIR,
+     filename,
+     mimetype="audio/wav"
+    )
 
 
 @app.get("/<path:filename>")
