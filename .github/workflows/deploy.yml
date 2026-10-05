@@ -127,3 +127,11 @@ steps:
         curl -v http://127.0.0.1:8083/api/status || true
 
         exit 1
+     fi
+
+      echo ""
+      echo "========================================"
+      echo "DEPLOYMENT SUCCESSFUL"
+      echo "========================================"
+
+
